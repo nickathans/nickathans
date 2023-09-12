@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, People! 👋
 
-<!--
-**nickathans/nickathans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nick, a highly motivated and diligent Data Science Graduate, with a strong educational background in Electrical Engineering, Computer Science and hands- on experience gained as a Junior Developer in the Business sector. 🚀
 
-Here are some ideas to get you started:
+*Feel free to reach out to me!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+These are some of the technologies I currently work or worked in the past:
+
+|      Frontend      |     Backend     |    Databases    |       DevOps        |    Robotics    |
+|:------------------:|:---------------:|:---------------:|:-------------------:|:--------------:|
+|        HTML5       |      Python     |  MS SQL Server  |       Docker        |  ROS (Indigo)  |
+|        CSS3        |        C#       |     MongoDB     |        Git          |                |
+|      JavaScript    |        C        |                 |        AWS          |                |
+|      Bootstrap4    |        C++      |                 |   Microsoft Azure   |                |
+|                    |   ASP .NET MVC  |                 |       CI/CD         |                |
+|                    |        R        |                 |                     |                |
+|                    |      Matlab     |                 |                     |                |
+|                    |                 |                 |                     |                |
+
+
+## 🚀 Side Projects
+
+### 🫀 Multi-modal deep learning
+Thesis Project of MSc in Fundamental Principles of Data Science @ University of Barcelona. Application to integrative modelling of electrocardiography and cardiac imaging. Utilised a large dataset of ECG and MRI from the UK biobank.
+
+### 🤖 Assistance System for people with visual impairments
+Thesis Project of MEng in Electrical Engineering and Computer Technology @ University of Patras focused on Robotics and IoT.
+
+### 🥂 SimaTinos | [Website](https://www.simatinos.com)
+Freelance website development using Squarespace.
+
+
+
