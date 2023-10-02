@@ -22,7 +22,7 @@ These are some of the technologies I currently work or worked in the past:
 
 ## 🚀 Side Projects
 
-### 🫀 Multi-modal deep learning
+### 🫀 [Multi-modal deep learning](https://github.com/nickathans/master-thesis)
 Thesis Project of MSc in Fundamental Principles of Data Science @ University of Barcelona. Application to integrative modelling of electrocardiography and cardiac imaging. Utilised a large dataset of ECG and MRI from the UK biobank.
 
 ### 🤖 Assistance System for people with visual impairments
