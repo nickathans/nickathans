@@ -28,7 +28,7 @@ Thesis Project of MSc in Fundamental Principles of Data Science @ University of 
 ### 🤖 Assistance System for people with visual impairments
 Thesis Project of MEng in Electrical Engineering and Computer Technology @ University of Patras focused on Robotics and IoT.
 
-### 🥂 SimaTinos | [Website](https://www.simatinos.com)
+### 🥂 [SimaTinos](https://www.simatinos.com)
 Freelance website development using Squarespace.
 
 
